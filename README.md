@@ -31,3 +31,5 @@ A new Flutter plugin for acquiring volume change of physical volume keys.
     );
   }
 ```
+> 提示：本人对ios一窍不通，获取音量方法全是现学现卖，如有不如意的地方，还请自行修改。  
+如果不想使用示例中的音量控件，可以在StatefulWidget中自定义控件，并监听数据返回。
