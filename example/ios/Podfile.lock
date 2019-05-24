@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - volume_plugin (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `.symlinks/flutter/ios`)
+  - volume_plugin (from `.symlinks/plugins/volume_plugin/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  volume_plugin:
+    :path: ".symlinks/plugins/volume_plugin/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 58dd7d1b27887414a370fcccb9e645c08ffd7a6a
+  volume_plugin: 57a2858ac9fcd5df3a7a22b7d5068cb167257e0d
+
+PODFILE CHECKSUM: aff02bfeed411c636180d6812254b2daeea14d09
+
+COCOAPODS: 1.6.1
