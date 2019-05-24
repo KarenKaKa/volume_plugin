@@ -2,6 +2,10 @@
 
 A new Flutter plugin for acquiring volume change of physical volume keys.
 
+效果图：
+
+
+![image](https://github.com/KarenKaKa/volume_plugin/blob/master/demo.gif)
 ## Getting Started
 ```java
   @override
